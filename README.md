@@ -11,7 +11,8 @@ This repository contains the code and resources for "Spring Boot 3, Spring 6 & H
 
 - [Introduction](#introduction)
 - [Course Content](#course-content)
-- [What I learned](#course-content)
+- [What I learned](#what-i-learned)
+- [Certification](#certification)
 - [Getting Started](#getting-started)
   
 ## Introduction
